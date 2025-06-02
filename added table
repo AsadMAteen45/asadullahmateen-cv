@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Asadullah Mateen – Data Center Operations Technician & Aspiring Software Developer CV </title>
+  <style>
+    body {
+      font-family: 'Segoe UI', sans-serif;
+      line-height: 1.6;
+      margin: 0;
+      background: #f4f4f4;
+      color: #333;
+    }
+    header, footer {
+      background: #222;aade
+      color: #fff;
+      text-align: center;
+      padding: 1rem 0;
+    }
+    main {
+      max-width: 900px;
+      margin: 2rem auto;
+      background: #fff;
+      padding: 2rem;
+      box-shadow: 0 0 10px rgba(0,0,0,0.1);
+    }
+    h1, h2, h3 {
+      color: #2c3e50;
+    }
+    section {
+      margin-bottom: 2rem;
+    }
+    ul {
+      padding-left: 20px;
+    }
+    .skills span {
+      display: inline-block;
+      background: #e1ecf4;
+      color: #0366d6;
+      padding: 0.3rem 0.6rem;
+      margin: 0.2rem;
+      border-radius: 4px;
+      font-size: 0.9rem;
+    }
+    a {
+      color: #0366d6;
+      text-decoration: none;
+    }
+    a:hover {
+      text-decoration: underline;
+    }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      margin-top: 1rem;
+    }
+    caption {
+      caption-side: top;
+      text-align: left;
+      font-weight: bold;
+      margin-bottom: 0.5rem;
+    }
+    th, td {
+      border: 1px solid #ccc;
+      padding: 0.5rem;
+      text-align: left;
+    }
+    th {
+      background-color: #f0f0f0;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Asadullah Mateen</h1>
+    <p>Data Center Operation Technician | Web & App Enthusiast | Aspiring Software Development Engineer</p>
+    <p><a href="mailto:asadullahkmateen@gmail.com">asadullahkmateen@gmail.com</a> | (240) 377-1124</p>
+  </header>
+
+  <main>
+    <section aria-labelledby="summary">
+      <h2 id="summary">Profile Summary</h2>
+      <p>A dynamic Data Center Operations Technician with proven expertise in infrastructure monitoring and asset management. Adept at implementing structured cabling solutions. Also an aspiring software developer with a passion for building impactful digital experiences.</p>
+    </section>
+
+    <section aria-labelledby="skills">
+      <h2 id="skills">Skills</h2>
+      <div class="skills">
+        <span>Asset Management</span>
+        <span>Storage Area Networks</span>
+        <span>Data Center Operations</span>
+        <span>IT Support</span>
+        <span>Infrastructure Monitoring</span>
+        <span>Problem Solving</span>
+        <span>Teamwork and Collaboration</span>
+        <span>Network Infrastructure</span>
+        <span>Structured Cabling</span>
+      </div>
+    </section>
+
+    <section aria-labelledby="tools">
+      <h2 id="tools">Development Tools & Proficiency</h2>
+      <table>
+        <caption>Development Stack Proficiency</caption>
+        <thead>
+          <tr>
+            <th>Tool/Language</th>
+            <th>Proficiency Level</th>
+            <th>Years of Experience</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>JavaScript</td>
+            <td>Beginner</td>
+            <td>0</td>
+          </tr>
+          <tr>
+            <td>Python</td>
+            <td>Beginner</td>
+            <td>0</td>
+          </tr>
+          <tr>
+            <td>HTML/CSS</td>
+            <td>Beginner</td>
+            <td>0</td>
+          </tr>
+          <tr>
+            <td>React</td>
+            <td>Beginner</td>
+            <td>0</td>
+          </tr>
+        </tbody>
+      </table>
+    </section>
